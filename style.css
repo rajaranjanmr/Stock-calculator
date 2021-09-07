@@ -13,6 +13,8 @@ body{
     display:flex;
     flex-direction:column;
     justify-content: center;
+    border:none;
+    border-radius: 2rem;
 }
 .heading{
     text-align: center;
